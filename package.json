@@ -41,6 +41,11 @@
     ]
   },
   "devDependencies": {
-    "ajv": "^7.2.4"
+    "@vitejs/plugin-react": "^4.3.2",
+    "ajv": "^7.2.4",
+    "vite": "^5.4.8",
+    "vite-plugin-commonjs": "^0.10.3",
+    "vite-plugin-svgr": "^4.2.0",
+    "vite-tsconfig-paths": "^5.0.1"
   }
 }
